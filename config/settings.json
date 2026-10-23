@@ -1,0 +1,8 @@
+
+{
+  "dataset_path": "data/heart_disease.csv",
+  "target_column": "target",
+  "test_size": 0.2,
+  "random_state": 42,
+  "n_estimators": 100
+}
